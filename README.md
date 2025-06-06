@@ -17,7 +17,7 @@ This document outlines the privacy practices for **Mothers&Sisters** ("we," "us,
 - **Purpose**: Service delivery, security, legal compliance, and user communication.  
 - **User Rights**: Access, correction, deletion, and consent withdrawal (varies by region).  
 
-> 📖 **Full Policy**: [View here](#full-privacy-policy)  
+> 📖 **Full Policy**: [View here]([#full-privacy-policy)](https://github.com/kellspell/M-S-Privacy-Policy/blob/main/M%26S%20privacy%20policy)  
 
 ---
 
